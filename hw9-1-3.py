@@ -14,4 +14,6 @@ def find_thing(working_item, search_item):
     return -1
 
 x = find_thing("apple", "ple")
-print(x)
+y = find_thing("eajksdhkajhfkajhdfkajf","fka")
+z = find_thing("yes","no")
+print(x,y,z)
